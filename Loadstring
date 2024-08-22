@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Danielle201/VortexFusionX/main/The%20Script."))()
+
+the offical loadstring
